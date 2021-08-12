@@ -67,7 +67,8 @@ svg:hover path{
 }
 
 .name a:hover {
-  color: #7c1f5d;
+/*   color: #7c1f5d; */
+  text-decoration: underline;
 }
 
 

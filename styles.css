@@ -43,15 +43,12 @@ svg {
   padding-top: 20px;
 }
 
-a {
-  text-decoration: none;
-}
-
 svg:hover path{
   fill: #1df2a4;
 }
 
-h1 {
+a {
+    text-decoration: none;
   padding: 0;
   margin: 15px;
   color: white;

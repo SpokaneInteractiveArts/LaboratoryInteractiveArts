@@ -30,6 +30,10 @@ html {
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
+a{
+  text-decoration: none;
+}
+
 .image2 {
   display: none;
 }
@@ -47,7 +51,7 @@ svg:hover path{
   fill: #1df2a4;
 }
 
-a {
+.name {
     text-decoration: none;
   padding: 0;
   margin: 15px;

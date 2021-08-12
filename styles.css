@@ -66,6 +66,11 @@ svg:hover path{
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
+.name a:hover {
+  text-decoration: underline;
+  color: #1df2a4;
+}
+
 
 .bg0 {
   background-image: url(img/BMPproject.png);
